@@ -1,0 +1,24 @@
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cardDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inputTag{
+    width: 280px;
+    height: 30px;
+    font-size: large;
+    border-radius: 6px;
+    border-width: 2px;
+}
+.resDiv{
+    font-size: 40px;
+    font-weight: 600;
+    padding: 10px;
+    color: rgb(151, 151, 151);
+}
